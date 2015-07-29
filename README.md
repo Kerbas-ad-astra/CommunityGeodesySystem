@@ -77,6 +77,6 @@ The Community Geodesy System is copyright 2015 Kerbas_ad_astra and released unde
 
 The Community Geodesy System logo is copyright 2015 Kerbas_ad_astra.  All rights reserved.  In the event that I hand off central control of CGS to anyone, I'll hand over the logo with it.
 
-The "Powered by CGS" logo is copyright 2015 Kerbas_ad_astra.  Any program which uses the Community Geodesy System may include the "Powered by CGS" logo, unmodified (resizing is OK), in its project homepage(s), preferably with a link back to the CGS project page on this forum, GitHub, or whatever CGS homepage(s) I make in the future.  All other rights reserved.
+The "Powered by CGS" logo is copyright 2015 Kerbas_ad_astra.  Any program which uses the Community Geodesy System may include the "Powered by CGS" logo, unmodified (scaling is OK), in its project homepage(s), preferably with a link back to the CGS project page on this forum, GitHub, or whatever CGS homepage(s) I make in the future.  All other rights reserved.
 
 (My main reason for restricting rights to the name and logos is to avoid user confusion in the event of multiple CGS forks and extensions running around.  I doubt this will come to pass, but you never know.  I like making logos and icons, so I'm happy to help any fork or extension project that wants a logo of its own!  :))
