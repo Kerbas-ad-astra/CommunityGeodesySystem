@@ -2,7 +2,7 @@
 
 *A geodesic grid system for Kerbal Space Program -- or anything else, I suppose.*
 
-[logo]
+![CGS logo](https://raw.githubusercontent.com/Kerbas-ad-astra/CommunityGeodesySystem/master/CGS%20logo.png)
 
 ##What is Geodesy?
 
@@ -26,13 +26,13 @@ I first started playing Kerbal Space Program with version 0.23.5, when a few co-
 
 ##Download and install
 
-The source code is available on GitHub.  At the moment, there's nothing to install yet.  (Maybe there won't ever be anything to install on its own -- see "Roadmap".)
+The source code is available [**on GitHub**](https://github.com/Kerbas-ad-astra/CommunityGeodesySystem).  At the moment, there's nothing to install yet.  (Maybe there won't ever be anything to install on its own -- see "Roadmap".)
 
 ##Addons which use CGS
 
 None so far, and I don't expect any until CGS is actually done.  Once it is, please let me know if your addon (or an addon you love) uses CGS and I'll list it here.  I've even got a "Powered by CGS" logo waiting for you!
 
-[powered_by_cgs]
+![Powered by CGS](https://raw.githubusercontent.com/Kerbas-ad-astra/CommunityGeodesySystem/master/Powered%20by%20CGS.png)
 
 (I can make it say something other than "Powered by", if you think that would be better.)
 
@@ -73,10 +73,10 @@ And of course, thanks are owed to Majiir for showing me what is possible and for
 
 ##License
 
-The Community Geodesy System is copyright 2015 Kerbas_ad_astra and released under the GNU GPL v3 (or any later version).  If you make a fork (unless it's intended to be merged with the master or if I'm handing over central control to someone else), you must give it a different name in addition to the other anti-user-confusion provisions of the GPL (see sections 5a, 7).  All other rights reserved.
+The Community Geodesy System is copyright 2015 Kerbas_ad_astra and released under the [**GNU GPL v3**](https://www.gnu.org/licenses/gpl-3.0) (or any later version).  If you make a fork (unless it's intended to be merged with the master or if I'm handing over central control to someone else), you must give it a different name in addition to the other anti-user-confusion provisions of the GPL (see sections 5a, 7).  All other rights reserved.
 
 The Community Geodesy System logo is copyright 2015 Kerbas_ad_astra.  All rights reserved.  In the event that I hand off central control of CGS to anyone, I'll hand over the logo with it.
 
-The "Powered by CGS" logo is copyright 2015 Kerbas_ad_astra.  Any program which uses the Community Geodesy System may include the "Powered by CGS" logo, unmodified, in its project homepage(s), preferably with a link back to the CGS project page on this forum, GitHub, or whatever CGS homepage(s) I make in the future.  All other rights reserved.
+The "Powered by CGS" logo is copyright 2015 Kerbas_ad_astra.  Any program which uses the Community Geodesy System may include the "Powered by CGS" logo, unmodified (resizing is OK), in its project homepage(s), preferably with a link back to the CGS project page on this forum, GitHub, or whatever CGS homepage(s) I make in the future.  All other rights reserved.
 
 (My main reason for restricting rights to the name and logos is to avoid user confusion in the event of multiple CGS forks and extensions running around.  I doubt this will come to pass, but you never know.  I like making logos and icons, so I'm happy to help any fork or extension project that wants a logo of its own!  :))
