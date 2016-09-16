@@ -38,7 +38,7 @@ None so far, and I don't expect any until CGS is actually done.  Once it is, ple
 
 ##Version history
 
-* 2015 XX: No release yet, just CommunityGeodesyUtility.
+* 2015 08 02: No release yet, just CommunityGeodesyUtility.
 
 ##Roadmap
 
